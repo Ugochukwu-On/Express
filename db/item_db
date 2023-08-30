@@ -1,0 +1,11 @@
+module.exports={
+    "inventory" : [
+    {
+        "id": 1,
+        "Name": "Dog",
+        "Price": 2000,
+        "Quantity": 2,
+        
+    }
+]}
+
